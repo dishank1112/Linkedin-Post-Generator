@@ -7,7 +7,6 @@ lang_options=["English","Hinglish"]
 
 from few_shot import FewShotPosts
 
-
 def main():
     st.title("What you want to Post ??")
     col1,col2,col3 = st.columns(3)
